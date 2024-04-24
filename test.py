@@ -1,3 +1,1 @@
-print("Hello world")
-
-print("zkouška sirén")
+print(1+1)
